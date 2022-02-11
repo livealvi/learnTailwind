@@ -1,0 +1,24 @@
+{
+  "name": "learntailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/tailwind.css -o ./output/tailwind.css -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livealvi/learnTailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/livealvi/learnTailwind/issues"
+  },
+  "homepage": "https://github.com/livealvi/learnTailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.21"
+  }
+}
