@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 /* group utilities */
+/* layer */
 @layer components {
   .btn {
     @apply px-4 py-1 border rounded-full text-sm font-semibold focus:outline-none focus:ring-2 focus:ring-offset-2 hover:text-white dark:focus:ring-offset-gray-600 hover:border-transparent;
